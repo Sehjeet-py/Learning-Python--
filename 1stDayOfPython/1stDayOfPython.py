@@ -11,7 +11,8 @@ print(input("What do you want me to print "))
 age = input("Whats youe age")
 print(age)
 sum = input("Enter two number to get their sum")
-
+print(sum)
+# Basic python 
 
 
 
