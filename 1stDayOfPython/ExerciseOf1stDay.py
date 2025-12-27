@@ -71,3 +71,6 @@ print(total)
 
 
 
+data = 3.1
+datastr = str(data)
+print(type(datastr))
